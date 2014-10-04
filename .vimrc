@@ -1,0 +1,1 @@
+/Users/zph/dotfiles/home/.vimrc
