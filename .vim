@@ -1,1 +1,0 @@
-/Users/zph/dotfiles/home/.vim
